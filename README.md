@@ -20,11 +20,6 @@ https://github.com/Apodisation13/Blackjack_Django <br>
 Стэк: Python, tkinter, requests, API VK, API YaDisk <br> 
 https://github.com/Apodisation13/Diploma_gui
 
-* Блэкджек GUI <br> 
-Описание: игра Блэкджек, ранняя версия, на tkinter GUI (не поддерживаю дальше, надо переключать git branch) <br> 
-Стэк: Python, tkinter, Pillow <br> 
-https://github.com/Apodisation13/Blackjack
-
 * Women-Wikipedia <br> 
 Описание: сайт (а-ля википедия) с известными женщинами по категориям <br>
 Стэк: Django, sqlite, docker/docker-compose, nginx <br>
