@@ -4,6 +4,10 @@
 
 Я ищу работу в должности программист Python Django.
 
+## Вот здесь можно посмотреть видеопрезентацию обо мне:
+https://youtube.ru/link
+
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/LpyXrnP/2.png" alt="2" border="0"></a>
 
 ### Проекты:
@@ -42,7 +46,6 @@ https://github.com/Apodisation13/docker_hw_1
 * Мобильный номер: +7 910 495-9509
 * Электронная почта: apodisation13@gmail.com
 * Телеграм: https://t.me/PaulSol13
-* Видеопрезентация :https://youtube.ru/link
 
 
 
